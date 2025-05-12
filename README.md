@@ -1,5 +1,5 @@
-## Hi there 👋
-
+opa! seja bem vindo ao meu perfil 
+meu nome é bianca sou do 1b!!
 <!--
 **bianca-natalino/bianca-natalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
